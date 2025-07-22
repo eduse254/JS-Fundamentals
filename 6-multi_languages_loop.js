@@ -1,7 +1,7 @@
-let words = ["C is fun", "Python is amazing", "Javacsript is amazing"];
+const words = ["C is fun", "Python is amazing", "Javacsript is amazing"];
 
-for (let index = 0; index < words.length; index++) {
-    console.log(words[index]);
+for (let i = 0; i < words.length; i++) {
+    console.log(words[i]);
 
 
 }
